@@ -19,11 +19,11 @@ div#wall #tag-4 {
   display: none;
 }
 
-div#wall .parent #tag-5.slick img {
+div#wall .parent #tag-5.slick {
   display: none;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+div#wall div.parent div:last-child > div#tag-6 {
   display: none;
 }
 
